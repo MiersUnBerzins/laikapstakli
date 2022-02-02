@@ -4,6 +4,7 @@
   font-family: 'Quicksand', sans-serif;
   overflow: hidden;
   font-weight: bold;
+  text-align: center;
 }
 
 .table thead th {
