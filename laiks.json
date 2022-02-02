@@ -1,0 +1,99 @@
+
+[
+    {
+      "datums": "02.02.2022",
+      "pilseta": "Sigulda",
+      "laikapstakli": "Puteņo",
+      "vejs": "18",
+      "temp": "-10",
+      "vards": "AnnaLiepina"
+    },
+    {
+      "datums": "02.02.2022",
+      "pilseta": "Daugavpils",
+      "laikapstakli": "Mākoņains",
+      "vejs": "5",
+      "temp": "6",
+      "vards": "janisKOCINS"
+    },
+    {
+      "datums": "02.02.2022",
+      "pilseta": "Saldus",
+      "laikapstakli": "Negaiss",
+      "vejs": "20",
+      "temp": "-4",
+      "vards": "Zivs4lecejs"
+    },
+    {
+      "datums": "02.02.2022",
+      "pilseta": "Liepāja",
+      "laikapstakli": "Vētra",
+      "vejs": "23",
+      "temp": "-15",
+      "vards": "zilaisvins797"
+    },
+    {
+      "datums": "02.02.2022",
+      "pilseta": "Cēsis",
+      "laikapstakli": "Lietains",
+      "vejs": "16",
+      "temp": "2",
+      "vards": "maijazvina"
+    },
+    {
+      "datums": "02.02.2022",
+      "pilseta": "Alūksne",
+      "laikapstakli": "Saulains",
+      "vejs": "2",
+      "temp": "-3",
+      "vards": "HeadInTheClouds"
+    },
+    {
+      "datums": "02.02.2022",
+      "pilseta": "Roja",
+      "laikapstakli": "Lietus",
+      "vejs": "4",
+      "temp": "1",
+      "vards": "purpleSUNNY"
+    },
+    {
+      "datums": "",
+      "pilseta": "",
+      "laikapstakli": "",
+      "vejs": "",
+      "temp": "",
+      "vards": ""
+    },
+    {
+      "datums": "01.02.2022",
+      "pilseta": "Ainaži",
+      "laikapstakli": "Apmācies",
+      "vejs": "5",
+      "temp": "-5",
+      "vards": "CompisJanis"
+    },
+    {
+      "datums": "01.02.2022",
+      "pilseta": "Saldus",
+      "laikapstakli": "Negaiss",
+      "vejs": "17",
+      "temp": "-7",
+      "vards": "marisuldis"
+    },
+    {
+      "datums": "01.02.2022",
+      "pilseta": "Talsi",
+      "laikapstakli": "Saulains",
+      "vejs": "4",
+      "temp": "4",
+      "vards": "AntonsJantons"
+    },
+    {
+      "datums": "01.02.2022",
+      "pilseta": "Jēkabpils",
+      "laikapstakli": "Miglains",
+      "vejs": "2",
+      "temp": "2",
+      "vards": "Miglinieks"
+    }
+]
